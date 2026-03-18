@@ -3,7 +3,7 @@ name: laravel-inertia-vue
 description: Laravel + Inertia.js + Vue 3 integration patterns. Use when building Inertia page components, handling forms with useForm composable, managing shared data, or implementing persistent layouts. Triggers on tasks involving Inertia.js, page props, form handling, or Laravel Vue integration.
 license: MIT
 metadata:
-  author: AsyrafHussin
+  author: Jasim K
   version: "1.0.0"
   laravelVersion: "12.x"
   phpVersion: "8.3+"
@@ -449,6 +449,6 @@ MIT License. This skill is provided as-is for educational and development purpos
 
 - **Version**: 1.0.0
 - **Last Updated**: 2026-03-17
-- **Maintainer**: Asyraf Hussin
+- **Maintainer**: Jasim K
 - **Rule Count**: 24 rules across 6 categories
 - **Tech Stack**: Laravel 12+, Inertia.js 2.0+, Vue 3.3+, TypeScript 5+
